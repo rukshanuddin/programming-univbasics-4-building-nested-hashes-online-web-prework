@@ -15,7 +15,7 @@ def monopoly_with_third_tier
 				 three_pieces_owned: 100,
 				 four_pieces_owned: 200},
 			names:
-				{pennsylvania_railroad: {}, b_and_o_railroad:{}, reading_railroad:{}, short_line_railroad:{}}}}
+				{pennsylvania_railroad: {}, b_and_o_railroad:{}, reading_railroad:{}, shortline_railroad:{}}}}
 end
 
 def monopoly_with_fourth_tier
