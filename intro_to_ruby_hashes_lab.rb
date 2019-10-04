@@ -33,7 +33,7 @@ def monopoly_with_fourth_tier
 			names:
 				{pennsylvania_railroad:{},
 				 b_and_o_railroad:{},
-				 reading_railroad:{},
+				 reading_railroad:{mortgage_value: "$100"},
 				 shortline_railroad:{}}
 				 }}
 end
